@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "An ICT 302 Website"
 theme = "ananke"
 
 [build]
@@ -34,3 +34,8 @@ HUGO_VERSION = "0.74.3"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
+[params]
+[[menu.main]]
+name = "About Corbin Salyers"
+weight = 1
+url = "/introduction/"

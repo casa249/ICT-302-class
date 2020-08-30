@@ -10,9 +10,9 @@ My name is Corbin, and I am from Lexington, KY. I am a junior at the University 
 
 Some of my favorite things are: 
   <ul>
-  <li>fireworks
-  <li>friends/family
-  <li>science fiction
-  <li>comedy specials
-  <ul>
+  <li>fireworks</li>
+  <li>friends/family</li>
+  <li>science fiction</li>
+  <li>comedy specials</li>
+  </ul>
 

@@ -9,10 +9,8 @@ draft: false
 My name is Corbin, and I am from Lexington, KY. I am a junior at the University of Kentucky and I am an ICT major. I spend a lot of time doing production work at UK and other places. 
 
 Some of my favorite things are: 
-  <ul>
-  <li>fireworks</li>
-  <li>friends/family</li>
-  <li>science fiction</li>
-  <li>comedy specials</li>
-  </ul>
-
+  * Fireworks
+  * Friends and family
+  * Science Fiction
+  * Comedy Specials
+  

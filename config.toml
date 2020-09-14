@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "An ICT 302 Website"
-theme = "hugo-theme-air-master.zip"
+theme = "hugo-theme-air-master"
 
 [build]
 publish = "public"

@@ -39,3 +39,21 @@ HUGO_ENABLEGITINFO = "true"
 name = "About Corbin Salyers"
 weight = 1
 url = "/introduction/"
+
+[params]
+[[menu.main]]
+name = "Resource Guide"
+weight = 1
+url = "/Resource_Guide/"
+
+[params]
+[[menu.main]]
+name = "Annotated Definitions"
+weight = 1
+url = "/Annotated_Definitions/"
+
+[params]
+[[menu.main]]
+name = "Walkthrough"
+weight = 1
+url = "/Walkthrough/"

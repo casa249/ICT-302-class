@@ -5,6 +5,8 @@ draft: false
 ---
 dummy blog post: here's where will talk about what we wrote, who did what, and a link to the post.
 
+![dummy picture](https://thirsty-wiles-f568e5.netlify.app/Earth_ICT.jpg)
+
 Cheese strings cheddar dolcelatte. Roquefort fondue lancashire cheddar pepper jack cheesy grin cauliflower cheese dolcelatte. Everyone loves croque monsieur macaroni cheese pepper jack cottage cheese who moved my cheese goat hard cheese. Gouda rubber cheese who moved my cheese squirty cheese caerphilly ricotta cheesy grin the big cheese. Fondue everyone loves macaroni cheese taleggio babybel fromage frais taleggio mozzarella. Cottage cheese rubber cheese manchego paneer cottage cheese.
 
 Ricotta bavarian bergkase pecorino. Camembert de normandie smelly cheese cottage cheese babybel brie bocconcini mozzarella cheese and wine. Red leicester cheeseburger airedale stilton queso swiss pecorino emmental. Brie queso cauliflower cheese bavarian bergkase cheese slices fondue emmental danish fontina. Cauliflower cheese blue castello jarlsberg feta brie manchego cottage cheese paneer. Babybel cheeseburger fondue jarlsberg airedale.

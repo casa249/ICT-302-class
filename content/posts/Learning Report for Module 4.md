@@ -1,6 +1,6 @@
 ---
 title: "Learning Report for Module 4"
-date: 2020-08-12T00:00:00-04:00
+date: 2020-09-13T00:00:00-04:00
 draft: false
 ---
 I have learned new key concepts in content management such as assisting editors, organization, security, and content delivery.

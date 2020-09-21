@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://CAS_ICT302.org/"
 languageCode = "en-us"
 title = "An ICT 302 Website"
 theme = "ananke"

@@ -1,4 +1,4 @@
-baseURL = "http://An_ICT_302_Website.org/"
+baseURL = "https://thirsty-wiles-f568e5.netlify.app/"
 languageCode = "en-us"
 title = "An ICT 302 Website"
 theme = "ananke"

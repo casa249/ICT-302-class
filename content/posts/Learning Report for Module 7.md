@@ -1,6 +1,6 @@
 ---
 title: "Learning Report for Module 7"
-date: 2020-10-4T00:00:00-04:00
+date: 2020-10-4T00:00:00-04:55
 draft: false
 ---
 I have not learned too much on identifying key concepts this week, but I have been given a further understanding of concepts like HTML and the process of creating posts on other CMSs.
